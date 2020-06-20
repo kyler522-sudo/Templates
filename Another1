@@ -1,0 +1,141 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+
+    <title>Another One!</title>
+	
+	<style>
+	
+		.mainImageTop {
+		
+			background: url('header.jpg') center center no-repeat;
+			background-size:cover;
+			height:500px;
+		
+		}
+	
+	</style>
+	
+	
+  </head>
+  <body id="page-top">
+    
+	<nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" id="mainNav">
+	  <a class="navbar-brand" href="#">
+		<img src="Mrk.png" width="30" height="30" class="d-inline-block align-top" alt="" loading="lazy">
+		Mr.k
+	  </a>
+	  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+		<span class="navbar-toggler-icon"></span>
+	  </button>
+	  <div class="collapse navbar-collapse" id="navbarNav">
+		<ul class="navbar-nav">
+		  <li class="nav-item active">
+			<a class="nav-link js-scroll-trigger" href="#page-top">Home</a>
+		  </li>
+		  <li class="nav-item">
+			<a class="nav-link js-scroll-trigger" href="#about">About</a>
+		  </li>
+		  <li class="nav-item">
+			<a class="nav-link js-scroll-trigger" href="#contact">Contact</a>
+		  </li>
+		</ul>
+	  </div>
+	</nav>
+	
+	
+	<header class="mainImageTop">
+	</header>
+	
+	
+	<section id="about" class="py-5">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-8 mx-auto">
+					<h2>About Us</h2>
+						<p class="lead">A results driven, self-motivated and resourceful person. </p>
+						<p>With the challenging Digital World of evolvement and changes all over, you need to think out of the box to make things happen. Person who want to create the things wish existed. </p>
+				</div>
+			</div>
+		</div>
+	</section>
+	
+	<section id="contact" class="bg-light py-5">
+       <div class="container">
+           <!--Section heading-->
+			<h2 class="h1-responsive font-weight-bold text-center my-4">Contact us</h2>
+			<!--Section description-->
+			<p class="text-center w-responsive mx-auto mb-5">Do you have any questions? Please do not hesitate to contact us directly. Our team will come back to you within
+				a matter of hours to help you.</p>
+           <div class="row">
+             <div class="col-sm-12 col-md-6 col-lg-3 my-5">
+               <div class="card border-0">
+                  <div class="card-body text-center">
+                    <ion-icon name="call-outline"></ion-icon>
+                    <h4 class="text-uppercase mb-5"><strong>call us</strong></h4>
+                    <p>+91-8839606301</p>
+                  </div>
+                </div>
+             </div>
+             <div class="col-sm-12 col-md-6 col-lg-3 my-5">
+               <div class="card border-0">
+                  <div class="card-body text-center">
+                    <ion-icon name="mail-outline"></ion-icon>
+					<h4 class="text-uppercase mb-5"><strong>email</strong></h4>
+                    <p>mohitroa66@gmail.com</p>
+                  </div>
+                </div>
+             </div>
+			 <div class="col-sm-12 col-md-6 col-lg-3 my-5">
+               <div class="card border-0">
+                  <div class="card-body text-center">
+					<ion-icon name="logo-linkedin"></ion-icon>
+                    <h4 class="text-uppercase mb-5"><strong>LinkedIn</strong></h4>
+                    <a href="https://www.linkedin.com/in/y-mohit-rao/">Mr.k</a>
+                  </div>
+                </div>
+             </div>
+			 <div class="col-sm-12 col-md-6 col-lg-3 my-5">
+               <div class="card border-0">
+                  <div class="card-body text-center">
+					<ion-icon name="logo-github"></ion-icon>
+                    <h4 class="text-uppercase mb-5"><strong>GitHub</strong></h4>
+                    <a href="https://github.com/kyler522-sudo">Mr.k</a>
+                  </div>
+                </div>
+             </div>
+           </div>
+       </div>
+    </section>
+	
+	
+	<footer class="py-5 bg-dark">
+	
+		<div class="container">
+		
+			<p class="m-0 text-center text-warning">&copy Copyright anytime</p>
+			<p class="m-0 text-center text-warning">Designed By Mr.k</p>
+		
+		</div>
+	
+	
+	
+	
+	</footer>
+	
+	
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+	<script src="https://unpkg.com/ionicons@5.0.0/dist/ionicons.js"></script>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
+  </body>
+</html>
